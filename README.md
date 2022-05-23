@@ -1,4 +1,13 @@
-### Hi there 👋
+<h2> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> welcome to my space</h2>
+<a href= "mailto:xuchao528610@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<br>
+<br>
+
+### Who I am
+
+An engineer with a passion for cloud infrastructure, automation technologies, and helping people create secure, scalable infrastructure
 
 <!--
 **ttwwaaoo/ttwwaaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
